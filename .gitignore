@@ -1,0 +1,45 @@
+# Gradle
+.gradle/
+gradle/bin/
+gradle/docs/
+gradle/init.d/
+gradle/lib/
+gradle/src/
+gradle/LICENSE
+gradle/NOTICE
+gradle/README
+
+# Build outputs
+build/
+app/build/
+
+# Kotlin
+.kotlin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.codeartsdoer/
+.codegraph/
+
+# Local configuration
+local.properties
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# APKs
+*.apk
+*.aab
+
+# External tools / references
+commandlinetools/
+jadx-1.5.6/
+compose-samples-2026.08.00/
+Lucide/
+PiliPlus-main/
+计算器_decompiled/
+base_decompiled/
+skills/
